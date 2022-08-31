@@ -26,6 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jagdeeshgongidi&" alt="jagdeeshgongidi" /></p>
 ###
 [![](https://visitcount.itsvg.in/api?id=jagadeeshgongidi&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
+---
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=jagadeeshgongidi&label=Profile%20Views&color=0&pretty=false" />
 </a>
